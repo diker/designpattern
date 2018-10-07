@@ -15,7 +15,7 @@ package com.diker.singleton.hungry;
  */
 public class StaticConstantSingleton {
 
-    private static StaticConstantSingleton INSTANCE = new StaticConstantSingleton();
+    private static final StaticConstantSingleton INSTANCE = new StaticConstantSingleton();
 
     private StaticConstantSingleton() {}
 

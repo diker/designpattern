@@ -16,6 +16,9 @@ package com.diker.singleton.hungry;
  */
 public enum EnumSingleton {
 
+    /**
+     * 测试实例
+     */
     INSTANCE("AcName", "账户名称");
 
     private String key;
