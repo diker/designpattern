@@ -11,8 +11,8 @@ import java.io.ObjectOutputStream;
 import static org.junit.Assert.*;
 
 /**
- * @author:diker
- * @date:2018/10/7
+ * @author diker
+ * @since 2018/10/7
  */
 public class StaticCodeBlockSingletonTest {
 
